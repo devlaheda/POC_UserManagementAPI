@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\devla\\source\\repos\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\devla\\source\\repos\\usermanagementapi\\usermanagementapi\\middlewares\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\middlewares\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\devla\\source\\repos\\usermanagementapi\\usermanagementapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\devla\\source\\repos\\usermanagementapi\\usermanagementapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\devla\\source\\repos\\usermanagementapi\\usermanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1AD08C-C2B4-4D55-BA50-83F7CD7FECC2}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Middlewares\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Middlewares\\TokenValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Middlewares\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "UserManagementAPI\\Middlewares\\TokenValidationMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:49:18.109Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "UserManagementAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:46:49.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagementAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA3wFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:40:43.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\User.cs",
+              "ToolTip": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\User.cs",
+              "RelativeToolTip": "UserManagementAPI\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:02:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\devla\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "RelativeToolTip": "UserManagementAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:02:41.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
